@@ -41,13 +41,13 @@ source $source_dir/core/brew.sh
 # install python
 source $source_dir/core/python.sh
 # install mysql
-source $source_dir/core/mysql.sh
+#source $source_dir/core/mysql.sh
 # install postgres
-source $source_dir/core/postgres.sh
+#source $source_dir/core/postgres.sh
 # install compass
-source $source_dir/core/compass.sh
+#source $source_dir/core/compass.sh
 # install zsh
-source $source_dir/core/zsh.sh
+#source $source_dir/core/zsh.sh
 # install defaults
 source $source_dir/core/defaults.sh
 # install github
