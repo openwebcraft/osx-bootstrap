@@ -21,15 +21,9 @@ fi
 export formulas='
     git
     git-flow
-    hub
     bash-completion
     ssh-copy-id
     wget
-    dnsmasq
-    nginx
-    cowsay
-    redis
-    geoip
 '
 for formula in $formulas
 do
