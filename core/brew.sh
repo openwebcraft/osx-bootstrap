@@ -24,6 +24,7 @@ export formulas='
     bash-completion
     ssh-copy-id
     wget
+    ant
 '
 for formula in $formulas
 do
